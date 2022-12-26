@@ -1,2 +1,2 @@
 # git-github_devops
-Learning devops
+This repo is created for Learning devops prupose on edureka
